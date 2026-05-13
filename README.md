@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+XZEERH+👋;I'm+a+Vibecoder+🎧💻;Astronomy+Web+Creator+🌌;Coding+from+Termux+📱" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+XZEERH;I'm+a+Vibecoder;Astronomy+Web+Creator;Coding+from+Termux" />
   
   <p align="center">
     <img src="https://img.shields.io/badge/Status-Vibing_in_Code-6B21A8?style=flat-square&logo=ghost" />
@@ -44,7 +44,7 @@ Saya adalah seorang **Vibecoder**. Bagi saya, *coding* itu bukan soal seberapa r
 ## 📊 Vibe Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=XZEERH&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=XZEERH&theme=tokyonight&show_icons=true&hide_border=true" />
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=XZEERH&theme=tokyonight&hide_border=true" />
 </div>
@@ -52,7 +52,7 @@ Saya adalah seorang **Vibecoder**. Bagi saya, *coding* itu bukan soal seberapa r
 <br />
 
 <div align="center">
-  <img src="https://media.giphy.com/media/hX1xGusI1qKnm/giphy.gif" width="350" />
+  <img src="https://media.tenor.com/bZe0WqY6YtQAAAAC/space-pixel.gif" width="350" />
   <br />
   <br />
   <i>"Writing code under the stars, running scripts from the palm of my hand." 🌠📱</i>
