@@ -50,11 +50,12 @@ Saya adalah seorang **Vibecoder**. Bagi saya, *coding* itu bukan soal seberapa r
 
 ## 📊 Vibe Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=XZEERH&theme=tokyonight&show_icons=true&hide_border=true" />
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=4285F4&center=true&vCenter=true&width=600&lines=🚀+Analyzing+XZEERH's+Code...;🌌+Checking+Astronomy+Portals...;🤖+Evaluating+AI+Prompts...;✅+All+Systems+Operational!" />
+  <br />
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=XZEERH&theme=tokyonight&hide_border=true" />
-</p>
+</div>
 
 <br />
 
