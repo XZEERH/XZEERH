@@ -51,7 +51,7 @@ Saya adalah seorang **Vibecoder**. Bagi saya, *coding* itu bukan soal seberapa r
 ## 📊 Vibe Stats
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=4285F4&center=true&vCenter=true&width=600&lines=🚀+Analyzing+XZEERH's+Code...;🌌+Checking+Astronomy+Portals...;🤖+Evaluating+AI+Prompts...;✅+All+Systems+Operational!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=39FF14&background=0D1117&center=false&vCenter=true&width=600&lines=xzeerh@termux:~%24+npm+run+stats;>+Fetching+GitHub+Activity...;>+Total+Contributions:+745%2B;>+Initializing+AI+Engine...;>+Claude+AI+%26+DeepSeek+Ready;xzeerh@termux:~%24+keep+vibing!" />
   <br />
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=XZEERH&theme=tokyonight&hide_border=true" />
