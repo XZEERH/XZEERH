@@ -11,7 +11,7 @@
 
 ## 🌌 About Me
 
-Saya adalah seorang **Vibecoder**. saya berusia 16 tahun,pendidikan saya ditingkatan SMK jurusan Pengeleasan, Saya belajar *coding* bermula dari youtube, tiktok dan AI, saya memakai AI, hanya untuk perbaikan suatu kode saya jika ada yang error/salah. Intinya berawal saya terjun ke dunia koding hanya fomo doang dan akhirnya malah jadi hal kebiasaan bagi diri, dan terus belajar biar bisa menjadi profesional.Bagi saya koding itu bukan seberapa rumit bahasanya, tapi soal nemuin *flow* yang pas, sambil dengerin musik *lo-fi*, eksplorasi ide dengan santai, dan menikmati proses bikin sesuatu yang bermanfaat.
+Saya adalah seorang **Vibecoder**. saya berusia 16 tahun,pendidikan saya ditingkatan SMK jurusan Pengeleasan, Saya belajar *coding* bermula dari youtube, tiktok dan AI, saya memakai AI, hanya untuk perbaikan suatu kode saya jika ada yang error/salah. Intinya berawal saya terjun ke dunia koding hanya fomo doang dan akhirnya malah jadi hal kebiasaan bagi diri, dan terus belajar biar bisa menjadi profesional. Bagi saya koding itu bukan seberapa rumit bahasanya, tapi soal nemuin *flow* yang pas, sambil dengerin musik *lo-fi*, eksplorasi ide dengan santai, dan menikmati proses bikin sesuatu yang bermanfaat.
 
 - 🎨 **Design & UI/UX:** Merancang dan mendesain antarmuka web yang intuitif, estetik, dan berpusat pada kenyamanan pengguna sebelum dituangkan ke dalam baris kode.
 - 🧠 **Prompt & AI Engineer:** Ahli dalam menyusun *prompt* (memberi arahan dan perintah terstruktur) kepada AI untuk efisiensi *coding*. Saya juga berperan sebagai AI Engineer dalam menganalisis dan memilih model AI terbaik (seperti **Claude AI, Google AI Studio, DeepSeek**, dan berbagai alat *AI Code*) yang paling cocok untuk menyelesaikan suatu arsitektur proyek.
