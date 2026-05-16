@@ -11,7 +11,7 @@
 
 ## 🌌 About Me
 
-Saya adalah seorang **Vibecoder**. Bagi saya, *coding* itu bukan soal seberapa rumit bahasanya, tapi soal nemuin *flow* yang pas, dengerin musik *lo-fi*, eksplorasi ide dengan santai, dan menikmati proses bikin sesuatu yang bermanfaat.
+Saya adalah seorang **Vibecoder**. saya berusia 16 tahun,pendidikan saya ditingkatan SMK jurusan Pengeleasan, Saya belajar *coding* bermula dari youtube, tiktok dan AI, saya memakai AI, hanya untuk perbaikan suatu kode saya jika ada yang error/salah. Intinya berawal saya terjun ke dunia koding hanya fomo doang dan akhirnya malah jadi hal kebiasaan bagi diri, dan terus belajar biar bisa menjadi profesional.Bagi saya koding itu bukan seberapa rumit bahasanya, tapi soal nemuin *flow* yang pas, sambil dengerin musik *lo-fi*, eksplorasi ide dengan santai, dan menikmati proses bikin sesuatu yang bermanfaat.
 
 - 🎨 **Design & UI/UX:** Merancang dan mendesain antarmuka web yang intuitif, estetik, dan berpusat pada kenyamanan pengguna sebelum dituangkan ke dalam baris kode.
 - 🧠 **Prompt & AI Engineer:** Ahli dalam menyusun *prompt* (memberi arahan dan perintah terstruktur) kepada AI untuk efisiensi *coding*. Saya juga berperan sebagai AI Engineer dalam menganalisis dan memilih model AI terbaik (seperti **Claude AI, Google AI Studio, DeepSeek**, dan berbagai alat *AI Code*) yang paling cocok untuk menyelesaikan suatu arsitektur proyek.
@@ -32,12 +32,25 @@ Saya adalah seorang **Vibecoder**. Bagi saya, *coding* itu bukan soal seberapa r
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=termux&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
 </p>
 
 <p align="center">
