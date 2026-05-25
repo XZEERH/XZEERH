@@ -15,7 +15,7 @@ I am a **Vibecoder**. I am 16 years old, my education is at the Vocational High 
 
 - 🎨 **Design & UI/UX:** Designing and designing intuitive, aesthetic, and user-centered web interfaces before putting them into code.
 - 🧠 **Prompt & AI Engineer:** Expert in composing prompts (giving structured directions and commands) to AI for coding efficiency. I also play a role as an AI Engineer in analyzing and selecting the best **AI models** (such as **Claude AI, Google AI Studio, DeepSeek**, and various AI Code tools) that are most suitable for completing a project architecture.
-- 🔭 **Space & Astronomy:** Punya minat besar pada luar angkasa. Saya sangat suka membangun *web portal* khusus untuk komunitas astronomi. Menggabungkan hobi tata surya dengan baris kode adalah *passion* saya.
+- 🔭 **Space & Astronomy:** I have a deep interest in space. I really enjoy building web portals specifically for the astronomy community. Combining my passion for the solar system with coding is my passion.
 - 📱 **Portable Coder:** Mengandalkan **Termux** sebagai *workspace* utama di HP. Bukan untuk *hacking*, melainkan sebagai *environment* mandiri untuk menjalankan `npm run`, mengeksekusi *script* Python, dan *running* TypeScript kapan saja, di mana saja.
 
 ---
