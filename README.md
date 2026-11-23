@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://files.catbox.moe/7icgmo.gif" width="350" alt="RAZEERH" />
+  <img src="https://files.catbox.moe/7icgmo.gif" width="150" alt="RAZEERH" />
 </div>
 
 <div align="center">
