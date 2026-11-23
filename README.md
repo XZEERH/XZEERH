@@ -1,6 +1,8 @@
-<div align="center">
-  <img src="https://files.catbox.moe/7icgmo.gif" width="150" alt="RAZEERH" />
-</div>
+<p align="center">
+  <img src="https://files.catbox.moe/7icgmo.gif"
+       width="300"
+       alt="Razeerh">
+</p>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+XZEERH;I'm+a+Vibecoder" />
