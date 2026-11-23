@@ -1,5 +1,5 @@
 <div align="center">
-  <IMG src="https://files.catbox.moe/dc92ll.mp4"
+  <img src="https://files.catbox.moe/dc92ll.mp4"
 width="350" alt="RAZEERH" />
 </div>
 
