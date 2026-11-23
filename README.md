@@ -11,5 +11,3 @@
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="350" />
   <br />
   <br />
-  <i>"Writing code under the stars, running scripts from the palm of my hand." 🌠📱</i>
-</div>
